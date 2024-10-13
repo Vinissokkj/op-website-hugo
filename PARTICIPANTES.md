@@ -74,6 +74,7 @@ Ao adicionar o seu nome, por favor observe:
 | Daniel Carvalho                | codecodic7@gmail.com                    | https://github.com/KDEboy                 |
 | Daniel Chaves de Lima          | danielchaves001@gmail.com               | https://github.com/danielcdl              |
 | Daniel Christian de O. Rosa    | daniel.c.rosa@gmail.com                 | https://github.com/DanielRosa74           |
+| Daniel Donizete Cunha da silva | devd.nika@gmail.com                     | https://github.com/Donicad                |
 | Daniel Ferraz dos santos       | danielferraz.contato@gmail.com          | https://github.com/danielferraz-git       |
 | Daniel Haas Becattini Lima     | danielhaas.lima@gmail.com               | https://github.com/Daniel-Haas-B          |
 | Daniel Magalhães Bicalho       | danielmbicalho@gmail.com                | https://github.com/danielmbicalho         |
@@ -248,6 +249,7 @@ Ao adicionar o seu nome, por favor observe:
 | Marcos Rocha                   | No Email                                | https://github.com/rochamrcs              |
 | Marcos Teruo Ouchi             | marcos.teruo.ouchi@gmail.com            | https://github.com/nixware                |
 | Marcos Vinicio de Souza Rocha  | mavinicius95@gmail.com                  | https://github.com/mavinicius95           |
+| Marcos Vinícius Costa Moreira  | marcosmoreira@id.uff.br                 | https://github.com/Vinissokkj             |
 | Maria Bruna de Oliveira        | bruna.o.fon100@gmail.com                | https://github.com/bruna-luc              |
 | Mariana Lira                   | marilira2006@gmail.com                  | https://github.com/marilira               |
 | Mario Idival Gomes Duarte      | marioidival@gmail.com                   | https://github.com/marioidival            |
